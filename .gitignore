@@ -1,0 +1,16 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore temporary system or config files
+Thumbs.db
+
+# Ignore any local test or temporary files
+*.log
+*.tmp
+*.bak
